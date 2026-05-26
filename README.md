@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ravichaudhary111/leetcode2/tree/master/0169-majority-element) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ravichaudhary111/leetcode2/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ravichaudhary111/leetcode2/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ravichaudhary111/leetcode2/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ravichaudhary111/leetcode2/tree/master/0135-candy) |
+## String
+|  |
+| ------- |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ravichaudhary111/leetcode2/tree/master/3120-count-the-number-of-special-characters-i) |
 <!---LeetCode Topics End-->
