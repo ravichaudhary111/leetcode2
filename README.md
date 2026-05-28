@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravichaudhary111/leetcode2/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/ravichaudhary111/leetcode2/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ravichaudhary111/leetcode2/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ravichaudhary111/leetcode2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravichaudhary111/leetcode2/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravichaudhary111/leetcode2/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/ravichaudhary111/leetcode2/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ravichaudhary111/leetcode2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/ravichaudhary111/leetcode2/tree/master/0189-rotate-array) |
 ## Hash Table
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ravichaudhary111/leetcode2/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ravichaudhary111/leetcode2/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravichaudhary111/leetcode2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
@@ -54,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ravichaudhary111/leetcode2/tree/master/3120-count-the-number-of-special-characters-i) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ravichaudhary111/leetcode2/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ravichaudhary111/leetcode2/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
