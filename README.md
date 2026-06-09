@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravichaudhary111/leetcode2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/ravichaudhary111/leetcode2/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ravichaudhary111/leetcode2/tree/master/0242-valid-anagram) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ravichaudhary111/leetcode2/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Divide and Conquer
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ravichaudhary111/leetcode2/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ravichaudhary111/leetcode2/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravichaudhary111/leetcode2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/ravichaudhary111/leetcode2/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/ravichaudhary111/leetcode2/tree/master/0242-valid-anagram) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ravichaudhary111/leetcode2/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Stack
 |  |
