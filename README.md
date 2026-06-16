@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ravichaudhary111/leetcode2/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/ravichaudhary111/leetcode2/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ravichaudhary111/leetcode2/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/ravichaudhary111/leetcode2/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/ravichaudhary111/leetcode2/tree/master/0228-summary-ranges) |
 ## Two Pointers
 |  |
@@ -89,8 +90,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravichaudhary111/leetcode2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/ravichaudhary111/leetcode2/tree/master/0209-minimum-size-subarray-sum) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravichaudhary111/leetcode2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ravichaudhary111/leetcode2/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ravichaudhary111/leetcode2/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
