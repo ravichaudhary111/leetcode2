@@ -71,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravichaudhary111/leetcode2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/ravichaudhary111/leetcode2/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ravichaudhary111/leetcode2/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravichaudhary111/leetcode2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/ravichaudhary111/leetcode2/tree/master/0242-valid-anagram) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ravichaudhary111/leetcode2/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ravichaudhary111/leetcode2/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ravichaudhary111/leetcode2/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
