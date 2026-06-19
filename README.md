@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ravichaudhary111/leetcode2/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ravichaudhary111/leetcode2/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/ravichaudhary111/leetcode2/tree/master/0228-summary-ranges) |
+| [1732-find-the-highest-altitude](https://github.com/ravichaudhary111/leetcode2/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ravichaudhary111/leetcode2/tree/master/0209-minimum-size-subarray-sum) |
+| [1732-find-the-highest-altitude](https://github.com/ravichaudhary111/leetcode2/tree/master/1732-find-the-highest-altitude) |
 ## Linked List
 |  |
 | ------- |
