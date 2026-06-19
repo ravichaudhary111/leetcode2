@@ -3,20 +3,13 @@
  * @param {number} minutes
  * @return {number}
  */
-var angleClock = function (hour, minutes) {
-    /// min--->6 de
-    // hours --> 30 deg
+var angleClock = function(hour, minutes) {
+    hour %= 12;
 
+    const hourAngle = hour * 30 + minutes * 0.5;
+    const minuteAngle = minutes * 6;
 
-    //    60 min--> 30;
-    //    1 min--> .5 degress
+    const diff = Math.abs(hourAngle - minuteAngle);
 
-    hour = hour % 12;
-
-    let hoursAngle = hour * 30 + minutes * .5;
-
-    let minutesAngle = minutes * 6;
-    let diff1 = Math.abs(minutesAngle - hoursAngle);
-    let diff2 = Math.abs(hoursAngle - minutesAngle);
-    return Math.min(diff1, 360 - diff1, diff2, 360 - diff2);
+    return Math.min(diff, 360 - diff);
 };
