@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ravichaudhary111/leetcode2/tree/master/0189-rotate-array) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/ravichaudhary111/leetcode2/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Dynamic Programming
 |  |
 | ------- |
