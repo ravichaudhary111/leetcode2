@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ravichaudhary111/leetcode2/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ravichaudhary111/leetcode2/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/ravichaudhary111/leetcode2/tree/master/0189-rotate-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ravichaudhary111/leetcode2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ravichaudhary111/leetcode2/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ravichaudhary111/leetcode2/tree/master/0042-trapping-rain-water) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ravichaudhary111/leetcode2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -114,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ravichaudhary111/leetcode2/tree/master/0141-linked-list-cycle) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ravichaudhary111/leetcode2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
