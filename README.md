@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ravichaudhary111/leetcode2/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/ravichaudhary111/leetcode2/tree/master/0228-summary-ranges) |
 | [1732-find-the-highest-altitude](https://github.com/ravichaudhary111/leetcode2/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/ravichaudhary111/leetcode2/tree/master/1833-maximum-ice-cream-bars) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ravichaudhary111/leetcode2/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ravichaudhary111/leetcode2/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ravichaudhary111/leetcode2/tree/master/0242-valid-anagram) |
+| [1833-maximum-ice-cream-bars](https://github.com/ravichaudhary111/leetcode2/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ravichaudhary111/leetcode2/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ravichaudhary111/leetcode2/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ravichaudhary111/leetcode2/tree/master/0135-candy) |
+| [1833-maximum-ice-cream-bars](https://github.com/ravichaudhary111/leetcode2/tree/master/1833-maximum-ice-cream-bars) |
 ## String
 |  |
 | ------- |
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ravichaudhary111/leetcode2/tree/master/0141-linked-list-cycle) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ravichaudhary111/leetcode2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/ravichaudhary111/leetcode2/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
