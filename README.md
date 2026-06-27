@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/ravichaudhary111/leetcode2/tree/master/0228-summary-ranges) |
 | [1732-find-the-highest-altitude](https://github.com/ravichaudhary111/leetcode2/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/ravichaudhary111/leetcode2/tree/master/1833-maximum-ice-cream-bars) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ravichaudhary111/leetcode2/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ravichaudhary111/leetcode2/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ravichaudhary111/leetcode2/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ravichaudhary111/leetcode2/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/ravichaudhary111/leetcode2/tree/master/1189-maximum-number-of-balloons) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ravichaudhary111/leetcode2/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ravichaudhary111/leetcode2/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ravichaudhary111/leetcode2/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ravichaudhary111/leetcode2/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ravichaudhary111/leetcode2/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
