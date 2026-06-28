@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/ravichaudhary111/leetcode2/tree/master/0228-summary-ranges) |
 | [1732-find-the-highest-altitude](https://github.com/ravichaudhary111/leetcode2/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/ravichaudhary111/leetcode2/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ravichaudhary111/leetcode2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ravichaudhary111/leetcode2/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ravichaudhary111/leetcode2/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ravichaudhary111/leetcode2/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ravichaudhary111/leetcode2/tree/master/0242-valid-anagram) |
 | [1833-maximum-ice-cream-bars](https://github.com/ravichaudhary111/leetcode2/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ravichaudhary111/leetcode2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ravichaudhary111/leetcode2/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ravichaudhary111/leetcode2/tree/master/0135-candy) |
 | [1833-maximum-ice-cream-bars](https://github.com/ravichaudhary111/leetcode2/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ravichaudhary111/leetcode2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
 | ------- |
