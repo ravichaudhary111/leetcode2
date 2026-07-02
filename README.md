@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ravichaudhary111/leetcode2/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ravichaudhary111/leetcode2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ravichaudhary111/leetcode2/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ravichaudhary111/leetcode2/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ravichaudhary111/leetcode2/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/ravichaudhary111/leetcode2/tree/master/0189-rotate-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ravichaudhary111/leetcode2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ravichaudhary111/leetcode2/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravichaudhary111/leetcode2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ravichaudhary111/leetcode2/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/ravichaudhary111/leetcode2/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ravichaudhary111/leetcode2/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/ravichaudhary111/leetcode2/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ravichaudhary111/leetcode2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
