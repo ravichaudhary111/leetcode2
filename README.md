@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ravichaudhary111/leetcode2/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ravichaudhary111/leetcode2/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ravichaudhary111/leetcode2/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/ravichaudhary111/leetcode2/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/ravichaudhary111/leetcode2/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ravichaudhary111/leetcode2/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ravichaudhary111/leetcode2/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ravichaudhary111/leetcode2/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/ravichaudhary111/leetcode2/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/ravichaudhary111/leetcode2/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ravichaudhary111/leetcode2/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ravichaudhary111/leetcode2/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ravichaudhary111/leetcode2/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ravichaudhary111/leetcode2/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/ravichaudhary111/leetcode2/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/ravichaudhary111/leetcode2/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ravichaudhary111/leetcode2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ravichaudhary111/leetcode2/tree/master/3120-count-the-number-of-special-characters-i) |
